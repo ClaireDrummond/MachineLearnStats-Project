@@ -34,3 +34,6 @@ Open BostonHousePrices.ipynb
 Jupyter Notebooks Tutorial: https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 # References Used
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
