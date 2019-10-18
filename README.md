@@ -37,3 +37,5 @@ Jupyter Notebooks Tutorial: https://www.datacamp.com/community/tutorials/tutoria
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
 https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
 https://seaborn.pydata.org/generated/seaborn.pairplot.html
+https://www.weirdgeek.com/2018/12/linear-regression-to-boston-housing-dataset/
+https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d
